@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+January 31, 2018
 
 ## Student Name:  
-(First and Last Name)
+Aubrey Parrish
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment teaches the basics of Version Control Systems and summarizes these concepts in a webpage. 
+
+## View Project:
+https://atp15b.github.io/lesson3_VersionControl/
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Version Control Systems allow users to keep track of changes that have been made to a file or multiple files over a period of time. 
+2. Local Version Control Systems store information about files on a single computer system. 
+3. Centralized Version Control Systems use a single server for multiple computer systems so that different developers can work together on the same project. 
 
